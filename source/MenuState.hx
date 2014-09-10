@@ -12,7 +12,7 @@ import flixel.util.FlxDestroyUtil;
 /**
  * A FlxState which can be used for the game's menu.
  */
-class MenuState extends FlxState
+class MenuState extends FlxState //Miriam's awesome.
 {
 	private var _btnPlay:FlxButton;
 	/**
